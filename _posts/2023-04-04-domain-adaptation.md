@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Domain Adaptation Fine-Tune Pre-Trained NLP Models
+title: "Domain Adaptation: Fine-Tune Pre-Trained NLP Models"
 subtitle: A step-by-step guide to fine-tuning pre-trained NLP models for any domain
 image: /img/tuning.jpg
 ---
