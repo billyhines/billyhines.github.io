@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Domain Adaptation: Fine-Tune Pre-Trained NLP Models
+title: Domain Adaptation Fine-Tune Pre-Trained NLP Models
 subtitle: A step-by-step guide to fine-tuning pre-trained NLP models for any domain
-image: /img/many_cars.png
+image: /img/tuning.jpg
 ---
 
 *Preface: The following article was co-written with Shashank Kapadia and was first published on [Towards Data Science](https://towardsdatascience.com/domain-adaption-fine-tune-pre-trained-nlp-models-a06659ca6668) on July 4, 2023.*
