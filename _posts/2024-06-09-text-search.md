@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Search Relevance: EDA, ElasticSearch and Text Queries"
+title: "📚 Search Relevance: EDA, ElasticSearch and Text Queries"
+subtitle: "Exploring Data and Setting Up Search"
 ---
 
 # Introduction

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Search Relevance: Hybrid Search"
+title: "📚↗️ Search Relevance: Hybrid Search"
+subtitle: "Combining The Best of Text and Vector Approaches"
 ---
 
 # Introduction

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Search Relevance: Vector Based Search"
+title: "↗️ Search Relevance: Vector Based Search"
+subtitle: "Harnessing the Power of Embeddings"
 ---
 
 # Introduction
