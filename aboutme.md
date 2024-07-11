@@ -3,7 +3,6 @@ layout: page
 title: About me
 ---
 
-My name is Billy Hines. I am a data scientist with a mechanical engineering background living and working in Boston, MA. Currently I work at ENGIE Insight, where I focus on using consumption data to help clients identify and implement energy reduction strategies.
+My name is Billy Hines. I am a data scientist based in Boston, MA. I currently work at Randstad, where I have been focusing on recommendation systems and optimizing search relevance algorithms.  
 
-Advanced In: Python, pandas, numpy, scikit-learn, MongoDB, time series, regression    
-Experience With: Git, JIRA, R, Flask
+As a key member of small, agile teams, I thrive in end-to-end development environments. My expertise spans the entire data science pipeline – from data collection and preprocessing to model development, deployment, and maintenance. This comprehensive approach allows me to deliver holistic solutions that drive real business value.
