@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Measure Twice, Split Once"
+title: "⚖️ Measure Twice, Split Once"
 subtitle: "Statistical Power in Behavioral Energy"
 ---
 
